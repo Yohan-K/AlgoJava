@@ -11,12 +11,13 @@ public class DemoApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(DemoApplication.class, args);
-        triangleLB(5);
+/*        triangleLB(5);
         triangleLU(5);
         triangleRU(5);
         triangleRB(5);
         spira(5);
-        npira(5);
+        npira(5);*/
+
     }
 
 }
